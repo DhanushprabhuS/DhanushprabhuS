@@ -5,7 +5,7 @@
 - 📫 How to reach me : dhanushprabhu.19it@sonatech.ac.in / dhanushprabhusenthil@gmail.com
 - LinkedIn : https://www.linkedin.com/in/dhanushprabhus/
 - If I rest, I rust!
-- link : https://drive.google.com/file/d/1JVUOvul9HIxPpbcwSdkQrOGQ1WaY2RSf/view?usp=drivesdk
+- Currently working on a React JS project. 
 <!---
 DhanushprabhuS/DhanushprabhuS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
