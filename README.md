@@ -5,7 +5,8 @@
 - 📫 How to reach me : dhanushprabhusenthil@gmail.com
 - LinkedIn : https://www.linkedin.com/in/dhanushprabhus/
 - If I rest, I rust!
-- Currently working on a React JS project. 
+- Currently working on a React JS project.
+- ![Visitor Count](https://profile-counter.glitch.me/{DhanushPrabhuS}/count.svg)
 <!---
 DhanushprabhuS/DhanushprabhuS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
