@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any kind of full-stack related projects
 - 📫 How to reach me : dhanushprabhusenthil@gmail.com
 - LinkedIn : https://www.linkedin.com/in/dhanushprabhus/
-- Currently working on a React JS project.
 - **If I rest, I rust!**
 
 ![Visitor Count](https://profile-counter.glitch.me/{DhanushPrabhuS}/count.svg) 
