@@ -5,7 +5,7 @@
 - 📫 How to reach me : dhanushprabhusenthil@gmail.com
 - LinkedIn : https://www.linkedin.com/in/dhanushprabhus/
 - **If I rest, I rust!**
-
+-  <img align=center src="https://user-images.githubusercontent.com/26017543/213364962-e9e6b262-0dc8-4cca-9914-7f336340e26d.png" alt="Web" width="36" height="36" />
 ![Visitor Count](https://profile-counter.glitch.me/{DhanushPrabhuS}/count.svg) 
 
 <!---
