@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DhanushprabhuS
 - 👀 I’m interested in programming JAVA | JAVASCRIPT | ReactJS
 - 🌱 I’ve done B.Tech IT in SONA COLLEGE OF TECHNOLOGY
-- 💞️ I’m looking to collaborate on any kind of full-stack related projects
+- 💞️ I’m looking to collaborate on any kind of Web and mobile app related projects
+- React Js, Flutter, Shopifiy, HTML/CSS/JS
 - 📫 How to reach me : dhanushprabhusenthil@gmail.com
 - LinkedIn : https://www.linkedin.com/in/dhanushprabhus/
 - LeetCode : https://leetcode.com/DhanushPrabhuS
